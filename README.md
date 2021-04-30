@@ -1,6 +1,6 @@
-## Welcome to Braxden's Portfolio
+# Welcome to Braxden's Portfolio
 
-![Me](https://github.com/bhanzelka/bhanzelka.github.io/blob/main/Braxden%20Hanzelka.jpg)
+![Me](/Braxden%20Hanzelka.jpg)
 
 Hi, my name is Braxden Hanzelka and I am a graduating senior (Class of 2021) at Westminster College.  I'm a Utah native and I have spent the last 22 years getting my hands on anything with a motor or anything that uses electricity.  
 
@@ -11,7 +11,7 @@ I knew very early on that my itch for computers wouldn't be satisifed until I kn
 
 I plan to continue my learning after graduation as well as pursue a job in software development.  Most importantly, I am going to spend some time with myself and go for many top down drives in my current project car.  If you want to stay up to date on where I am heading or what I am driving, feel free to check out my [Instagram Page](https://www.instagram.com/braxdenhanzelka/). 
 
-### Markdown
+## Project Portfolio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
