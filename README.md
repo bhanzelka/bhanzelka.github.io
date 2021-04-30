@@ -4,7 +4,7 @@
 
 Hi, my name is Braxden Hanzelka and I am a graduating senior (Class of 2021) at Westminster College.  I'm a Utah native and I have spent the last 22 years getting my hands on anything with a motor or anything that uses electricity.  
 
-I knew very early on that my itch for computers wouldn't be satisifed until I know the complete ins and outs of the system.  Because of this, I decided to puruse my Bachelor's in Computer Science to help get that deeper understanding that I was longing for.  As I near the completion of my degree, I confidently say  
+I knew very early on that my itch for computers wouldn't be satisifed until I know the complete ins and outs of the system.  Because of this, I decided to puruse my Bachelor's in Computer Science to help get that deeper understanding that I was longing for.  As I near the completion of my degree, I confidently say : 
 >“The more I learn, 
 >the more I realize 
 >how much I don't know” - Albert Einstein.
@@ -13,7 +13,7 @@ I plan to continue my learning after graduation as well as pursue a job in softw
 
 ## Project Portfolio
 
-### Smash Stats
+### [Smash Stats](https://github.com/bhanzelka/Smash-Stats)
 
 Smash Stats is my attempt at what I believe the statistics tracking should be for the game Super Smash Brothers Ultimate. The goal of this project was to get my feet wet with my first full stack application.  Throughout the development of Smash Stats, I took many different routes and ultimately ended up building the application with Node, CSS, HTML, and JavaScript.  Although this application isn't perfect, I am happy with the progress that was made on it and ultimately it will be converted to a mobile app.
 
@@ -25,19 +25,16 @@ This is an assignment that I completed during my Computer Security course at Wes
 
 ### [Spelic](https://github.com/BernardKintzing/Spelic) 
 
-Spelic is a spelling game that was designed to teach elementary students grades 1 through 5 how to spell.  This project was completed in a team during my Software Engineering course at Westminster.  The project was written in CSS, HTML, and Javascript and was hosted through firebase.   We also used firebase for our real time database to store each invidudual student's progress.  We even had an admin mode that functions as a teacher view with eleveated privileges compared to the basic student account. 
+Spelic is a spelling game that was designed to teach elementary students grades 1 through 5 how to spell.  This project was completed in a team during my Software Engineering course at Westminster.  The project was written in CSS, HTML, and Javascript and was hosted through firebase.   We also used firebase for our real time database to store each invidudual student's progress.  We even had an admin mode that functions as a teacher view with eleveated privileges compared to the basic student account.
 
-### Chatroom Application
+Spelic was one of the first web application that I worked on in a group setting.  I didnt know this at the time, but the knowledge learned from this assignment was invaluable when trying to create my own web application.  This project also helped to strengthen my group project skills in a way that I wasn't used to with other group assignments.  This was different than my other experiences because this project spanned a whole semester rather than a couple weeks.  Prior to this project, I was acustomed to working with other individuals, however these were often short term relations.  This project taught me the skills necessary to communicate with my team in order to stay on track as well on task throughout the semester.  
+
+### [Chatroom Application](https://github.com/bhanzelka/Chatroom-Application)
+
+This chatroom application was developed in my Computer Networks class.  This project was slowly built off of many other projects that eventually led to a full fledge chatroom application.  This application was developed alongside Augustine Valdez, and ultimately we are both proud of the results.  We even tested our application with the rest of the students who implented the same HTTP protocol as us.  
+
+To our surprise, we were able to use our client to connect to the other chatrooms.  After connected, the application worked like a chat app should, even providing the option for private messaging.  This was one of my favorite assignments at Wesminster because I was able to use my program to interact with other programs that Westminster students made.  Not only that, this application gave me a deeper understanding of protocols and their importance.  So long as you are following a strict set of rules, you'll be able to "talk" with others implementing that protocol.
 
 ### Recipies Database
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bhanzelka/bhanzelka.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This simple application allows you to access, edit, store, and delete recipies electronically.  All of this was done in conjunction with two other students for my final project in databases.  Although a cliché example, I have found this database to actually be quite useful for other projects I have completed.  It taught me the fundamentals of database management from start to finish.  I have been able to use my database development skills in other projects that I have completed, most notably my Senior Capstone Project and Spelic.  This was a really fun project, and a great way to get my feet wet learning about Database Management. 
