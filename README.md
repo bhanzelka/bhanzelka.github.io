@@ -1,9 +1,11 @@
 ## Welcome to Braxden's Portfolio
 
+[Me](/Braxden_Hanzelka.jpg)
+
 Hi, my name is Braxden Hanzelka and I am a graduating senior (Class of 2021) at Westminster College.  I'm a Utah native and I have spent the last 22 years getting my hands on anything with a motor or anything that uses electricity.  
 
 I knew very early on that my itch for computers wouldn't be satisifed until I know the complete ins and outs of the system.  Because of this, I decided to puruse my Bachelor's in Computer Science to help get that deeper understanding that I was longing for.  As I near the completion of my degree, I confidently say  
->“the more I learn, 
+>“The more I learn, 
 >the more I realize 
 >how much I don't know” - Albert Einstein.
 
