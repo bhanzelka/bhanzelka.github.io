@@ -13,30 +13,19 @@ I plan to continue my learning after graduation as well as pursue a job in softw
 
 ## Project Portfolio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 ### Smash Stats
 
-### One Time Pad Encryption 
+Smash Stats is my attempt at what I believe the statistics tracking should be for the game Super Smash Brothers Ultimate. The goal of this project was to get my feet wet with my first full stack application.  Throughout the development of Smash Stats, I took many different routes and ultimately ended up building the application with Node, CSS, HTML, and JavaScript.  Although this application isn't perfect, I am happy with the progress that was made on it and ultimately it will be converted to a mobile app.
 
-### Spelic 
+I plan to take  the orginizational and developmental skills I learned on this project and apply them to any application I am involved with going forward. 
+
+### [One Time Pad Encryption](https://github.com/bhanzelka/CMPTsecurityHW3) 
+
+This is an assignment that I completed during my Computer Security course at Westminster College.  This application features one time pad encryption and decryption.  I find OTP's particularly interesting because they cannot be cracked or brute forced unless you have the original shared key.  The application is simple to use, you input your message and your key that is of the same length or greater length than the message you want to encrypt.  Afterwards, the program will output your message in both plain text and cypher text.  
+
+### [Spelic](https://github.com/BernardKintzing/Spelic) 
+
+Spelic is a spelling game that was designed to teach elementary students grades 1 through 5 how to spell.  This project was completed in a team during my Software Engineering course at Westminster.  The project was written in CSS, HTML, and Javascript and was hosted through firebase.   We also used firebase for our real time database to store each invidudual student's progress.  We even had an admin mode that functions as a teacher view with eleveated privileges compared to the basic student account. 
 
 ### Chatroom Application
 
