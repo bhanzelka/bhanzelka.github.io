@@ -1,6 +1,6 @@
 ## Welcome to Braxden's Portfolio
 
-![Me](/Braxden_Hanzelka.jpg)
+![Me](https://github.com/bhanzelka/bhanzelka.github.io/blob/main/Braxden%20Hanzelka.jpg)
 
 Hi, my name is Braxden Hanzelka and I am a graduating senior (Class of 2021) at Westminster College.  I'm a Utah native and I have spent the last 22 years getting my hands on anything with a motor or anything that uses electricity.  
 
