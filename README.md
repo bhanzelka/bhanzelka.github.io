@@ -12,7 +12,7 @@ I knew very early on that my itch for computers wouldn't be satisifed until I kn
 
 I plan to continue my learning after graduation as well as pursue a job in software development.  Most importantly, I am going to spend some time with myself and go for many top down drives in my current project car.  If you want to stay up to date on where I am heading or what I am driving, feel free to check out my [Instagram Page](https://www.instagram.com/braxdenhanzelka/). 
 
-## Project Portfolio
+## Project Portfolio  
 
 ### [Smash Stats](https://github.com/bhanzelka/Smash-Stats)
 
@@ -28,7 +28,7 @@ This project addressed the computer science learning goals :
 
 This project addressed the Westminster college-wide learning goals : 
 1. **Critical Thinking**
-2. **Creativity**
+2. **Creativity**  
 
 ### [One Time Pad Encryption](https://github.com/bhanzelka/CMPTsecurityHW3) 
 
@@ -39,7 +39,7 @@ This project addressed the computer science learning goals :
 2. **Develop effective problem-solving skills.** 
 
 This project addressed the Westminster college-wide learning goal : 
-1. **Critical Thinking**
+1. **Critical Thinking**  
 
 ### [Spelic](https://github.com/BernardKintzing/Spelic) 
 
@@ -56,7 +56,7 @@ This project addressed the computer science learning goals :
 This project addressed the Westminster college-wide learning goals : 
 1. **Collaboration**
 2. **Communication**
-3. **Creativity**
+3. **Creativity**  
 
 ### [Chatroom Application](https://github.com/bhanzelka/Chatroom-Application)
 
@@ -70,7 +70,7 @@ This project addressed the computer science learning goals :
 
 This project addressed the Westminster college-wide learning goals : 
 1. **Collaboration**
-2. **Communication**
+2. **Communication**  
 
 ### [Recipies Database](https://github.com/bhanzelka/Recipes)
 
@@ -82,6 +82,6 @@ This project addressed the computer science learning goals :
 
 This project addressed the Westminster college-wide learning goals : 
 1. **Collaboration**
-2. **Creativity**
+2. **Creativity**  
 
 
