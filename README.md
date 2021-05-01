@@ -1,4 +1,5 @@
 # Welcome to Braxden's Portfolio
+## [Resume](/Braxden%20Hanzelka%20Resume%20(V2.0).pdf)
 
 ![Me](/Braxden%20Hanzelka.jpg)
 
@@ -84,4 +85,3 @@ This project addressed the Westminster college-wide learning goals :
 2. **Creativity**
 
 
-## [Resume](/Braxden%20Hanzelka%20Resume%20(V2.0).pdf)
