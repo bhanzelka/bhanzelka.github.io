@@ -84,4 +84,4 @@ This project addressed the Westminster college-wide learning goals :
 2. **Creativity**
 
 
-## [Resume](/Braxden Hanzelka Resume (V2.0).pdf)
+## [Resume](/Braxden%20Hanzelka%20Resume%20(V2.0).pdf)
