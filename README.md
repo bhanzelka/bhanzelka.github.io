@@ -82,3 +82,6 @@ This project addressed the computer science learning goals :
 This project addressed the Westminster college-wide learning goals : 
 1. **Collaboration**
 2. **Creativity**
+
+
+## [Resume](/Braxden Hanzelka Resume (V2.0).pdf)
