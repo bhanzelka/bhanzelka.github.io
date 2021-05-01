@@ -39,8 +39,9 @@ This chatroom application was developed in my Computer Networks class.  This pro
 
 To our surprise, we were able to use our client to connect to the other chatrooms.  After connected, the application worked like a chat app should, even providing the option for private messaging.  This was one of my favorite assignments at Wesminster because I was able to use my program to interact with other programs that Westminster students made.  Not only that, this application gave me a deeper understanding of protocols and their importance.  So long as you are following a strict set of rules, you'll be able to "talk" with others implementing that protocol.
 
-"This project addressed the computer science learning goals : 1. Attaining a system-level understanding of the computer
-                                                              1. Develop effective problem-solving skills. 
+This project addressed the computer science learning goals : 
+1. Attaining a system-level understanding of the computer
+2. Develop effective problem-solving skills. 
 
 ### [Recipies Database](https://github.com/bhanzelka/Recipes)
 
