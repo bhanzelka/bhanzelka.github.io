@@ -1,5 +1,5 @@
 # Welcome to Braxden's Portfolio
-## [Resume](/Braxden%20Hanzelka%20Resume%20(V2.0).pdf)
+## [Resume](Braxden Hanzelka Resume.pdf)
 
 ![Me](/Braxden%20Hanzelka.jpg)
 
